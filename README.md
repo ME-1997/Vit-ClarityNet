@@ -1,4 +1,4 @@
-# Vit-ClarityNet: Underwater Image Enhancement with Vision Transformers
+# Vit-ClarityNet: Vision Transformer-based CNN for Underwater Image Enhancement
 
 **Vit-ClarityNet** is a transformer-based CNN designed to enhance underwater images by overcoming challenges like light scattering, absorption, and poor illumination in underwater environments.
 
