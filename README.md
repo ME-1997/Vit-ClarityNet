@@ -40,7 +40,7 @@ To evaluate the performance of **Vit-ClarityNet**, we used the following underwa
 
 Enhanced versions of these datasets, as well as training datasets generated from BlueStyleGAN using underwater-transferred images from the [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/), are available for download through the following Google Drive link:
 
-- [Download Enhanced Datasets](https://drive.google.com/drive/folders/1bobH4BGmL2AonNb-OWEnlbbNHGrkehYb)
+- [Google Drive Link](https://drive.google.com/drive/folders/1bobH4BGmL2AonNb-OWEnlbbNHGrkehYb)
 
 ## Installation
 
