@@ -32,11 +32,11 @@ Below are the simplified diagrams illustrating the architectures of **Vit-Clarit
 
 To evaluate the performance of **Vit-ClarityNet**, we used the following underwater datasets:
 
-- **USOD Dataset**: [USOD Dataset](https://irvlab.cs.umn.edu/resources/usod-dataset)
-- **UIEB Dataset**: [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
-- **EUVP Dataset**: [EUVP Dataset](https://irvlab.cs.umn.edu/resources/euvp-dataset)
-- **U45 Dataset**: [U45 Dataset](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)
-- **SUIM Dataset**: [SUIM Dataset](https://irvlab.cs.umn.edu/resources/suim-dataset)
+- [USOD Dataset](https://irvlab.cs.umn.edu/resources/usod-dataset)
+- [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
+- [EUVP Dataset](https://irvlab.cs.umn.edu/resources/euvp-dataset)
+- [U45 Dataset](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)
+- [SUIM Dataset](https://irvlab.cs.umn.edu/resources/suim-dataset)
 
 Enhanced versions of these datasets, as well as training datasets generated from BlueStyleGAN using underwater-transferred images from the [KITTI Dataset](https://www.cvlibs.net/datasets/kitti/), are available for download through the following Google Drive link:
 
